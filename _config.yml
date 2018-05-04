@@ -1,0 +1,11 @@
+# basic options
+title: New Jekyll
+author: Bob Parker
+email: rlp193@gmail.com
+description: A wonderful site
+twitter_username: fuckoff_twitter
+github_username:  rlp1938
+
+# Build settings
+markdown: kramdown
+theme: minima
